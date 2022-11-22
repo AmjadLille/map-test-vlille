@@ -18,7 +18,7 @@
     "react-leaflet-google-layer": "^1.1.4",
     "react-leaflet-locate-control": "^0.1.6",
     "react-leaflet-markercluster": "^2.0.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
